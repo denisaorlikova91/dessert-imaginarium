@@ -10,7 +10,7 @@ const PageLayout = ({children}: PageLayoutProps) => (
       justifyContent='center'
       alignItems='center'
       h='100vh'
-      bgGradient='linear(to-l, #FFE7DF, #FFCCB3)'
+      bgColor='#ECAB8B'
     >
       {children}
     </Flex>
