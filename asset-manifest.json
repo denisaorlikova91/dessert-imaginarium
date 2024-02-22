@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/imaginarium-landing-page/static/css/main.df101e94.css",
+    "main.js": "/imaginarium-landing-page/static/js/main.f1ce253a.js",
+    "static/media/img4.jpeg": "/imaginarium-landing-page/static/media/img4.023582c998a2f60320c9.jpeg",
+    "static/media/playfair-display-latin-400-normal.woff": "/imaginarium-landing-page/static/media/playfair-display-latin-400-normal.65661001635c693b4481.woff",
+    "static/media/playfair-display-latin-400-normal.woff2": "/imaginarium-landing-page/static/media/playfair-display-latin-400-normal.497f6063188c2bea941f.woff2",
+    "static/media/playfair-display-latin-ext-400-normal.woff": "/imaginarium-landing-page/static/media/playfair-display-latin-ext-400-normal.0c30ac893c0ca09a22f2.woff",
+    "static/media/playfair-display-cyrillic-400-normal.woff": "/imaginarium-landing-page/static/media/playfair-display-cyrillic-400-normal.03ae1d3859c31ea5058c.woff",
+    "static/media/playfair-display-latin-ext-400-normal.woff2": "/imaginarium-landing-page/static/media/playfair-display-latin-ext-400-normal.8e38fdba0468b9f14990.woff2",
+    "static/media/playfair-display-cyrillic-400-normal.woff2": "/imaginarium-landing-page/static/media/playfair-display-cyrillic-400-normal.f6c5ea0009f0a2139788.woff2",
+    "static/media/playfair-display-vietnamese-400-normal.woff": "/imaginarium-landing-page/static/media/playfair-display-vietnamese-400-normal.f61b79a8b136a18fe63d.woff",
+    "static/media/playfair-display-vietnamese-400-normal.woff2": "/imaginarium-landing-page/static/media/playfair-display-vietnamese-400-normal.ff07e42fcd4ceb71e8bc.woff2",
+    "index.html": "/imaginarium-landing-page/index.html",
+    "main.df101e94.css.map": "/imaginarium-landing-page/static/css/main.df101e94.css.map",
+    "main.f1ce253a.js.map": "/imaginarium-landing-page/static/js/main.f1ce253a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.df101e94.css",
+    "static/js/main.f1ce253a.js"
+  ]
+}
